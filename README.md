@@ -5,3 +5,4 @@
 ### [SOP example](https://www.deldsim.com/ugc-c11012100z)
 ### [POS example](https://www.deldsim.com/ugc-c1s12104z)
 ### [Half adder using multiplexer](https://www.deldsim.com/ugc-c19120852)
+### [Making 8:1 from two 4:1](https://www.deldsim.com/ugc-c13121313)
