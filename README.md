@@ -10,3 +10,6 @@
 ### [Decoder Truth Table Verification](https://www.deldsim.com/ugc-c1c14144p/)
 ###	[Full adder using Decoder](https://www.deldsim.com/ugc-c13141498)
 ### [J-K Flip Flop](https://www.deldsim.com/ugc-c1814151p)
+### [3-Bit counter using J-K Flip Flop](https://www.deldsim.com/ugc-c1o14228b)
+### [3-Bit Down counter using J-K Flip Flop](https://www.deldsim.com/ugc-c1m14248y)
+### [MOD 5 UP](https://www.deldsim.com/ugc-c1g14320o)
