@@ -13,4 +13,5 @@
 ### [3-Bit counter using J-K Flip Flop (Asynchronous)](https://www.deldsim.com/ugc-c1o14228b)
 ### [3-Bit Down counter using J-K Flip Flop (Asynchronous)](https://www.deldsim.com/ugc-c1m14248y)
 ### [MOD 5 UP](https://www.deldsim.com/ugc-c1g14320o)
-### [3-Bit counter UP DOWN using J-K Flip Flop (Synchronous)](https://www.deldsim.com/ugc-c1317116v/)
+### [3-Bit counter UP DOWN using J-K Flip Flop (Synchronous)](https://www.deldsim.com/ugc-c1h17187j/)
+### [3-Bit counter UP using J-K Flip Flop (Synchronous)](https://www.deldsim.com/ugc-c1317116v/)
