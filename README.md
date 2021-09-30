@@ -16,3 +16,4 @@
 ### [3-Bit counter UP DOWN using J-K Flip Flop (Synchronous)](https://www.deldsim.com/ugc-c1h17187j/)
 ### [3-Bit counter UP using J-K Flip Flop (Synchronous)](https://www.deldsim.com/ugc-c1317116v/)
 ### [110 Sequence detector using JK Flip Flop](https://www.deldsim.com/ugc-c1s20399f)
+### [1-0-3-2-5 Sequence Generator](https://www.deldsim.com/ugc-c1n204285/)
