@@ -15,3 +15,4 @@
 ### [MOD 5 UP](https://www.deldsim.com/ugc-c1g14320o)
 ### [3-Bit counter UP DOWN using J-K Flip Flop (Synchronous)](https://www.deldsim.com/ugc-c1h17187j/)
 ### [3-Bit counter UP using J-K Flip Flop (Synchronous)](https://www.deldsim.com/ugc-c1317116v/)
+### [110 Sequence detector using JK Flip Flop](https://www.deldsim.com/ugc-c1s20399f)
